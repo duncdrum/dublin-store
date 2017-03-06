@@ -1,0 +1,636 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title xml:lang="zh">秋聲集</title>
+<title xml:lang="en">Sounds of Autumn</title>
+<author>
+<name>
+<choice>
+<sic>黄鎭成</sic>
+</choice>
+</name>
+</author>
+</titleStmt>
+<publicationStmt>
+<p>This document is published under a CC Attribution-Share Alike License</p>
+</publicationStmt>
+<sourceDesc>
+<p>XXX</p>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+
+<div>
+<p>
+提要
+</p>
+</div>
+
+<div>
+<p>
+　　（臣）等謹案<title>秋聲集</title>
+四卷元
+<persName>黄鎮成</persName>
+撰
+<name key="黄鎮成">鎮成</name>
+字
+<name key="黄鎮成" type="zi">元鎮</name>
+<placeName>邵武</placeName>人
+自幼刻苦嗜學篤志力行築南田精舍隠居著書部使者屢薦之不就最後
+用執政奏授
+<placeName>江西路</placeName>
+儒學副提舉命下而卒至正間
+<orgName>集賢院</orgName>
+定諡曰貞文處士所著有易通義尚書通考中庸章旨性理發蒙諸書皆已亡佚惟
+此集尚存然原本十卷此僅四卷則亦非完帙也
+<name key="黄鎮成">鎮成</name>
+詩格清新刻露在唐人中頗近錢郎不染元代穠纖氣習可謂能超然埃壒之表者
+<persName>王士禎</persName>
+居易録稱
+<name key="黄鎮成">鎮成</name>
+<title>秋風</title>
+詩云
+<lg>
+<l>秋風淅淅生庭柯</l>
+<l>蕭蕭木落洞庭波</l>
+<l>紅樹夕陽蟬噪急</l>
+<l>白蘋秋水雁來多</l>
+<l>王孫不歸怨芳草</l>
+<l>山鬼欲啼牽女蘿</l>
+<l>蒹葭蒼蒼白露下</l>
+<l>望美人兮將奈何</l>
+</lg>
+又
+<title>秋山小景</title>云
+<lg>
+<l>家住夕陽三峡口</l>
+<l>人行秋雨二崤間</l>
+<l>不知何處真堪畫</l>
+<l>移得柴門對楚山</l>
+</lg>
+<title>五曲精廬</title>
+云
+<lg>
+<l>歌棹曾窮九曲源</l>
+<l>精廬迢遞隠屏前</l>
+<l>閑尋五曲樵溪上</l>
+<l>三十六峰秋滿船</l>
+</lg>
+以為甚有風調
+今檢集中多韻致楚
+楚可供吟諷之作正不獨此三詩為然
+葢秀骨出於天成故霞舉雲鶱自然雋逸固非抗塵走俗者所可及已
+</p>
+</div>
+
+<div>
+<p>
+　　乾隆四十五年四月恭校上
+</p>
+</div>
+
+<div>
+<p>
+　　總纂官 （臣）<persName>紀昀</persName> （臣）<persName>陸錫熊</persName> （臣）<persName>孫士毅</persName>
+</p>
+</div>
+
+<div>
+<p>
+　　總校官 （臣）<persName>陸費墀</persName>
+</p>
+</div>
+<div>
+<p>
+秋聲集原序
+</p>
+</div>
+
+<div>
+<p>
+　　聲於天地間不能無也其大者雷霆也風雨也其次通之爲語言和之爲律呂下至時禽候蟲莫不有聲獨秋或有或無歐陽子謂聲在樹
+間猶假物以爲言也莊生所謂天籟在天不在物也夫秋之爲氣也寥閴而清寂寞而虛清與虛相薄或能有聲或能無聲不能必其有無然則
+秋聲亦天地間不能無者也余少學唫不能無聲大之不能爲雷霆風雨次之不能爲語言律呂時禽候蟲又有所不屑爲者故託而自附於秋
+聲焉秋聲可有可無余言亦可有無故錄之以爲秋聲集庶童子能聽之否乎秋聲子自序
+</p>
+</div>
+
+<div>
+<p>
+歌
+</p>
+</div>
+
+
+
+
+
+<div type="chapter" n="1">
+<div type="poem" n="0">
+<head>春日山行雜興【<num value="4">四</num>首】</head>
+<l>
+<rhyme type="入">出</rhyme>
+<rhyme type="入">郭</rhyme>
+<rhyme type="平">晴</rhyme>
+<rhyme type="平">光</rhyme>
+<rhyme label="阮" type="上">遠</rhyme>
+</l>
+<l>
+<rhyme type="去">臨</rhyme>
+<rhyme type="平">高</rhyme>
+<rhyme type="入">逸</rhyme>
+<rhyme type="去">興</rhyme>賖</l>
+<l>
+<rhyme type="去">路</rhyme>
+<rhyme type="去">經</rhyme>
+<rhyme type="平">棲</rhyme>
+<rhyme type="入">鶴</rhyme>
+<rhyme label="寘" type="去">地</rhyme>
+</l>
+<l>
+<rhyme type="平">山</rhyme>
+<rhyme type="入">入</rhyme>
+<rhyme type="上">種</rhyme>
+<rhyme type="平">桃</rhyme>
+<rhyme label="麻" type="平">家</rhyme>
+</l>
+<l>
+<rhyme type="入">石</rhyme>
+<rhyme type="上">頂</rhyme>
+<rhyme type="平">尋</rhyme>
+<rhyme type="平">雲</rhyme>
+<rhyme label="有" type="上">母</rhyme>
+</l>
+<l>
+<rhyme type="平">松</rhyme>
+<rhyme type="平">根</rhyme>
+<rhyme type="上">飲</rhyme>
+<rhyme type="入">雪</rhyme>
+<rhyme label="麻" type="平">花</rhyme>
+</l>
+<l>
+<rhyme type="去">故</rhyme>
+<rhyme type="平">人</rhyme>
+<rhyme type="去">留</rhyme>
+<rhyme type="入">宿</rhyme>
+<rhyme label="御" type="上">處</rhyme>
+</l>
+<l>
+<rhyme type="平">朝</rhyme>
+<rhyme type="上">飯</rhyme>
+<rhyme type="上">有</rhyme>
+<rhyme type="平">胡</rhyme>
+<rhyme label="麻" type="平">麻</rhyme>
+</l>
+<l>
+<rhyme type="平">山</rhyme>
+<rhyme type="平">翁</rhyme>
+<rhyme type="去">留</rhyme>
+<rhyme type="入">客</rhyme>
+<rhyme label="遇" type="去">住</rhyme>
+</l>
+<l>
+<rhyme type="去">自</rhyme>
+<rhyme type="入">說</rhyme>
+<rhyme type="入">樂</rhyme>
+<rhyme type="平">餘</rhyme>
+<rhyme label="先" type="平">年</rhyme>
+</l>
+<l>
+<rhyme type="入">日</rhyme>
+<rhyme type="上">養</rhyme>
+<rhyme type="去">分</rhyme>
+<rhyme type="平">男</rhyme>
+<rhyme label="禡" type="去">舍</rhyme>
+</l>
+<l>
+<rhyme type="平">春</rhyme>
+<rhyme type="平">耕</rhyme>
+<rhyme type="去">稅</rhyme>
+<rhyme type="上">主</rhyme>
+<rhyme label="先" type="平">田</rhyme>
+</l>
+<l>
+<rhyme type="上">雨</rhyme>
+<rhyme type="去">泥</rhyme>
+<rhyme type="平">朝</rhyme>
+<rhyme type="去">過</rhyme>
+<rhyme label="屋" type="入">鹿</rhyme>
+</l>
+<l>
+<rhyme type="平">山</rhyme>
+<rhyme type="入">木</rhyme>
+<rhyme type="去">夜</rhyme>
+<rhyme type="平">啼</rhyme>
+<rhyme label="先" type="平">鵑</rhyme>
+</l>
+<l>
+<rhyme type="平">雞</rhyme>
+<rhyme type="上">黍</rhyme>
+<rhyme type="平">煩</rhyme>
+<rhyme type="去">相</rhyme>
+<rhyme label="號" type="去">勞</rhyme>
+</l>
+<l>
+<rhyme type="平">桃</rhyme>
+<rhyme type="平">花</rhyme>
+<rhyme type="入">出</rhyme>
+<rhyme type="去">釣</rhyme>
+<rhyme label="先" type="平">船</rhyme>
+</l>
+<l>
+<rhyme type="平">城</rhyme>
+<rhyme type="入">郭</rhyme>
+<rhyme type="平">心</rhyme>
+<rhyme type="平">何</rhyme>
+<rhyme label="麌" type="上">補</rhyme>
+</l>
+<l>
+<rhyme type="平">煙</rhyme>
+<rhyme type="平">霞</rhyme>
+<rhyme type="入">跡</rhyme>
+<rhyme type="去">未</rhyme>踈</l>
+<l>
+<rhyme type="上">抱</rhyme>
+<rhyme type="平">琴</rhyme>
+<rhyme type="平">多</rhyme>
+<rhyme type="去">勝</rhyme>
+<rhyme label="寘" type="去">地</rhyme>
+</l>
+<l>
+<rhyme type="入">得</rhyme>
+<rhyme type="上">酒</rhyme>
+<rhyme type="入">即</rhyme>
+<rhyme type="平">吾</rhyme>
+<rhyme label="魚" type="平">廬</rhyme>
+</l>
+<l>
+<rhyme type="去">夜</rhyme>
+<rhyme type="去">候</rhyme>
+<rhyme type="平">丹</rhyme>
+<rhyme type="平">砂</rhyme>
+<rhyme label="哿" type="上">火</rhyme>
+</l>
+<l>
+<rhyme type="平">春</rhyme>
+<rhyme type="平">尋</rhyme>
+<rhyme type="入">石</rhyme>
+<rhyme type="入">室</rhyme>
+<rhyme label="魚" type="平">書</rhyme>
+</l>
+<l>
+<rhyme type="平">夤</rhyme>
+<rhyme type="去">緣</rhyme>
+<rhyme type="去">到</rhyme>
+<rhyme type="平">幽</rhyme>絶</l>
+<l>
+<rhyme type="平">高</rhyme>
+<rhyme type="上">士</rhyme>
+<rhyme type="入">亦</rhyme>
+<rhyme type="平">巢</rhyme>
+<rhyme label="支" type="平">居</rhyme>
+</l>
+<l>
+<rhyme type="去">夜</rhyme>
+<rhyme type="入">宿</rhyme>
+<rhyme type="平">東</rhyme>
+<rhyme type="平">屯</rhyme>
+<rhyme label="月" type="入">月</rhyme>
+</l>
+<l>
+<rhyme type="平">朝</rhyme>
+<rhyme type="去">行</rhyme>
+<rhyme type="入">北</rhyme>
+<rhyme type="上">渚</rhyme>
+<rhyme label="文" type="平">雲</rhyme>
+</l>
+<l>
+<rhyme type="去">地</rhyme>
+<rhyme type="去">穿</rhyme>
+<rhyme type="平">龍</rhyme>
+<rhyme type="上">虎</rhyme>
+<rhyme label="未" type="去">氣</rhyme>
+</l>
+<l>
+<rhyme type="平">星</rhyme>
+<rhyme type="入">列</rhyme>
+<rhyme type="上">鳥</rhyme>
+<rhyme type="上">鬼</rhyme>
+<rhyme label="文" type="平">文</rhyme>
+</l>
+<l>
+<rhyme type="入">白</rhyme>
+<rhyme type="上">墮</rhyme>
+<rhyme type="平">仙</rhyme>
+<rhyme type="平">家</rhyme>
+<rhyme label="漾" type="去">釀</rhyme>
+</l>
+<l>
+<rhyme type="平">青</rhyme>
+<rhyme type="平">精</rhyme>
+<rhyme type="上">野</rhyme>
+<rhyme type="入">客</rhyme>
+<rhyme label="問" type="去">分</rhyme>
+</l>
+<l>
+<rhyme type="平">人</rhyme>
+<rhyme type="平">言</rhyme>
+<rhyme type="去">王</rhyme>
+<rhyme type="上">子</rhyme>
+<rhyme label="震" type="去">晉</rhyme>
+</l>
+<l>
+<rhyme type="平">笙</rhyme>
+<rhyme type="入">鶴</rhyme>
+<rhyme type="去">至</rhyme>
+<rhyme type="平">今</rhyme>
+<rhyme label="問" type="去">聞</rhyme>
+</l>
+</div>
+<div type="poem" n="0">
+<head>春雨南田書事【<num value="3">三</num>首】</head>
+<l>
+<rhyme type="平">流</rhyme>
+<rhyme type="上">水</rhyme>
+<num value="3">
+<rhyme type="去">三</rhyme>
+</num>
+<rhyme type="平">椽</rhyme>
+<rhyme label="禡" type="去">舍</rhyme>
+</l>
+<l>
+<rhyme type="平">桑</rhyme>隂<num value="5">
+<rhyme type="上">五</rhyme>
+</num>
+<rhyme type="上">畝</rhyme>
+<rhyme label="先" type="平">田</rhyme>
+</l>
+<l>
+<rhyme type="上">飯</rhyme>
+<rhyme type="平">香</rhyme>
+<rhyme type="去">分</rhyme>
+<rhyme type="上">野</rhyme>
+<rhyme label="隊" type="去">碓</rhyme>
+</l>
+<l>
+<rhyme type="平">茶</rhyme>
+<rhyme type="入">熟</rhyme>
+<rhyme type="去">候</rhyme>
+<rhyme type="平">山</rhyme>
+<rhyme label="先" type="平">泉</rhyme>
+</l>
+<l>
+<rhyme type="入">石</rhyme>
+<rhyme type="入">榻</rhyme>
+<rhyme type="去">看</rhyme>
+<rhyme type="平">雲</rhyme>
+<rhyme label="哿" type="上">坐</rhyme>
+</l>
+<l>
+<rhyme type="平">谿</rhyme>窻聼<rhyme type="上">雨</rhyme>
+<rhyme label="先" type="平">眠</rhyme>
+</l>
+<l>
+<rhyme type="平">桃</rhyme>
+<rhyme type="平">花</rhyme>
+<rhyme type="平">川</rhyme>
+<rhyme type="上">上</rhyme>
+<rhyme label="遇" type="去">路</rhyme>
+</l>
+<l>
+<rhyme type="去">應</rhyme>
+<rhyme type="上">有</rhyme>
+<rhyme type="去">釣</rhyme>
+<rhyme type="平">魚</rhyme>
+<rhyme label="先" type="平">船</rhyme>
+</l>
+<l>
+<rhyme type="平">瓜</rhyme>
+<rhyme type="上">圃</rhyme>
+<rhyme type="平">通</rhyme>
+<rhyme type="平">鄰</rhyme>
+<rhyme label="絳" type="去">巷</rhyme>
+</l>
+<l>
+<rhyme type="去">柴</rhyme>
+<rhyme type="平">門</rhyme>
+<rhyme type="入">接</rhyme>
+<rhyme type="上">野</rhyme>
+<rhyme label="齊" type="平">蹊</rhyme>
+</l>
+<l>
+<rhyme type="去">賣</rhyme>
+<rhyme type="平">薪</rhyme>
+<rhyme type="平">歸</rhyme>
+<rhyme type="上">早</rhyme>
+<rhyme label="紙" type="上">市</rhyme>
+</l>
+<l>
+<rhyme type="去">行</rhyme>
+<rhyme type="去">餉</rhyme>
+<rhyme type="入">汲</rhyme>
+<rhyme type="平">寒</rhyme>
+<rhyme label="齊" type="平">溪</rhyme>
+</l>
+<l>
+<rhyme type="上">野</rhyme>
+<rhyme type="去">鷺</rhyme>
+<rhyme type="平">山</rhyme>
+<rhyme type="平">前</rhyme>
+<rhyme label="藥" type="入">落</rhyme>
+</l>
+<l>
+<rhyme type="平">林</rhyme>
+<rhyme type="平">鶯</rhyme>
+<rhyme type="上">雨</rhyme>
+<rhyme type="去">外</rhyme>
+<rhyme label="齊" type="平">啼</rhyme>
+</l>
+<l>
+<rhyme type="入">客</rhyme>
+<rhyme type="平">來</rhyme>
+<rhyme type="平">渾</rhyme>
+<rhyme type="入">不</rhyme>
+<rhyme label="合" type="入">答</rhyme>
+</l>
+<l>
+<rhyme type="平">孤</rhyme>絶<rhyme type="去">正</rhyme>
+<rhyme type="平">幽</rhyme>
+<rhyme label="齊" type="平">棲</rhyme>
+</l>
+<l>
+<rhyme type="上">草</rhyme>
+<rhyme type="去">徑</rhyme>
+<rhyme type="平">交</rhyme>
+<rhyme type="平">塍</rhyme>
+<rhyme label="翰" type="去">畔</rhyme>
+</l>
+<l>
+<rhyme type="平">花</rhyme>
+<rhyme type="平">村</rhyme>
+<rhyme type="入">曲</rhyme>
+<rhyme type="上">水</rhyme>
+<rhyme label="灰" type="平">隈</rhyme>
+</l>
+<l>
+<rhyme type="去">夜</rhyme>
+<rhyme type="平">燈</rhyme>
+<rhyme type="平">鄰</rhyme>
+<rhyme type="入">屋</rhyme>
+<rhyme label="御" type="上">語</rhyme>
+</l>
+<l>
+<rhyme type="平">晨</rhyme>
+<rhyme type="上">弩</rhyme>
+<rhyme type="入">獵</rhyme>
+<rhyme type="平">人</rhyme>
+<rhyme label="灰" type="平">猜</rhyme>
+</l>
+<l>
+<rhyme type="入">石</rhyme>
+<rhyme type="入">閣</rhyme>
+<rhyme type="平">雲</rhyme>
+<rhyme type="平">低</rhyme>
+<rhyme label="遇" type="上">樹</rhyme>
+</l>
+<l>
+<rhyme type="平">溪</rhyme>
+<rhyme type="平">添</rhyme>
+<rhyme type="上">雨</rhyme>
+<rhyme type="入">没</rhyme>
+<rhyme label="灰" type="平">苔</rhyme>
+</l>
+<l>
+<rhyme type="上">已</rhyme>
+<rhyme type="平">無</rhyme>
+<rhyme type="平">機</rhyme>
+<rhyme type="去">事</rhyme>
+<rhyme label="號" type="去">到</rhyme>
+</l>
+<l>
+<rhyme type="平">終</rhyme>
+<rhyme type="入">日</rhyme>靣<rhyme type="平">崔</rhyme>
+<rhyme label="灰" type="上">嵬</rhyme>
+</l>
+</div>
+<div type="poem" n="0">
+<head>鉛山早行</head>
+<l>
+<rhyme type="上">早</rhyme>
+<rhyme type="上">起</rhyme>
+<rhyme type="平">辭</rhyme>
+<rhyme type="平">林</rhyme>
+<rhyme label="翰" type="去">舘</rhyme>
+</l>
+<l>
+<rhyme type="平">鄰</rhyme>
+<rhyme type="平">雞</rhyme>
+<rhyme type="上">已</rhyme>
+<rhyme type="去">再</rhyme>
+<rhyme label="豪" type="平">嘷</rhyme>
+</l>
+<l>
+<rhyme type="入">月</rhyme>
+<rhyme type="平">弦</rhyme>
+<rhyme type="去">當</rhyme>
+<rhyme type="上">戸</rhyme>
+<rhyme label="職" type="入">直</rhyme>
+</l>
+<l>
+<rhyme type="上">斗</rhyme>
+<rhyme type="去">柄</rhyme>挿<rhyme type="平">山</rhyme>
+<rhyme label="豪" type="平">高</rhyme>
+</l>
+<l>
+<rhyme type="去">細</rhyme>
+<rhyme type="入">濕</rhyme>
+<rhyme type="平">侵</rhyme>
+<rhyme type="平">藜</rhyme>
+<rhyme label="養" type="上">杖</rhyme>
+</l>
+<l>
+<rhyme type="去">輕</rhyme>
+<rhyme type="平">寒</rhyme>
+<rhyme type="入">襲</rhyme>
+<rhyme type="去">布</rhyme>
+<rhyme label="豪" type="平">袍</rhyme>
+</l>
+<l>
+<rhyme type="平">前</rhyme>
+<rhyme type="平">趨</rhyme>
+<rhyme type="平">東</rhyme>
+<rhyme type="入">日</rhyme>
+<rhyme label="漾" type="上">上</rhyme>
+</l>
+<l>
+<num value="5">
+<rhyme type="上">五</rhyme>
+</num>
+<rhyme type="入">色</rhyme>
+<rhyme type="上">動</rhyme>
+<rhyme type="平">雲</rhyme>
+<rhyme label="豪" type="平">濤</rhyme>
+</l>
+</div>
+<div type="poem" n="0">
+<head>題<num value="3">三</num>磵鄭氏耕隠所</head>
+<l>
+<rhyme type="去">故</rhyme>
+<rhyme type="平">人</rhyme>
+<rhyme type="平">耕</rhyme>隠<rhyme label="御" type="上">處</rhyme>
+</l>
+<l>
+<num value="1">
+<rhyme type="入">一</rhyme>
+</num>
+<rhyme type="入">壑</rhyme>
+<rhyme type="入">樂</rhyme>
+<rhyme type="平">餘</rhyme>
+<rhyme label="刪" type="平">閒</rhyme>
+</l>
+<l>
+<rhyme type="上">遶</rhyme>
+<rhyme type="去">舍</rhyme>
+<rhyme type="平">流</rhyme>
+<rhyme type="平">春</rhyme>
+<rhyme label="紙" type="上">水</rhyme>
+</l>
+<l>
+<rhyme type="去">當</rhyme>
+<rhyme type="平">門</rhyme>
+<rhyme type="入">出</rhyme>
+<rhyme type="上">曉</rhyme>
+<rhyme label="刪" type="平">山</rhyme>
+</l>
+<l>
+<rhyme type="去">課</rhyme>
+<rhyme type="平">童</rhyme>
+<rhyme type="平">歸</rhyme>
+<rhyme type="上">雨</rhyme>
+<rhyme label="泰" type="去">外</rhyme>
+</l>
+<l>
+<rhyme type="去">留</rhyme>
+<rhyme type="入">客</rhyme>
+<rhyme type="去">住</rhyme>
+<rhyme type="平">雲</rhyme>
+<rhyme label="諫" type="去">間</rhyme>
+</l>
+<l>
+<rhyme type="去">尚</rhyme>
+<rhyme type="上">恐</rhyme>
+<rhyme type="平">違</rhyme>
+<rhyme type="平">溫</rhyme>凊</l>
+<l>
+<rhyme type="平">城</rhyme>
+<rhyme type="去">中</rhyme>
+<rhyme type="入">日</rhyme>徃<rhyme label="先" type="平">還</rhyme>
+</l>
+</div>
+</div>
+</body>
+</text>
+</TEI>
